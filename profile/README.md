@@ -1,6 +1,4 @@
-<p align="center">
-<img src="../public/aaaa.jpeg">
-</p>
+![Count Boxes (1)](https://github.com/user-attachments/assets/90c4ce22-e827-4040-93a7-4429d56fb813)
 
 O CountBoxes tem como função auxiliar na contagem de cargas durante o carregamento ou descarregamento de mercadorias.
 
